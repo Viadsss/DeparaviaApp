@@ -1,5 +1,11 @@
 # Deparavia Medical Center App
 
+## Group Members
+- Dela Cruz, Jhana Mae
+- Pangilinan, Hazel Ann
+- Regala, Kaye
+- Viado, John Paul
+
 ## Prerequisites
 
 Before you begin, ensure you have met the following requirements:
