@@ -2,6 +2,8 @@
 
 An application for managing patient admissions and records in healthcare facilities. It offers secure logins for patients, doctors, and admins, and includes features for handling patient data, admissions, and visits. Created collaboratively for the "Information and Management" course.
 
+**Demo Video:** https://www.youtube.com/watch?v=trl7HTWvlbc
+
 ![Deparavia-1](https://github.com/user-attachments/assets/cb96ff99-b16b-4b80-8f4d-3ccce6bf3b8c)
 ![Deparavia-2](https://github.com/user-attachments/assets/6afc1340-45c8-4196-8759-0d8ec6ee770b)
 ![Deparavia-3](https://github.com/user-attachments/assets/ac91d86a-b8c7-4655-8199-51d95f03fb50)
